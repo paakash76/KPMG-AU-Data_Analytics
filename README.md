@@ -1,1 +1,2 @@
 # KPMG-AU-Data_Analytics
+Completed the Virtual Experience Program with KPMG, a leading global professional services firm, specializing in data analytics. The program provided hands-on learning opportunities to develop practical skills in analyzing and interpreting complex data sets, applying industry-standard tools and techniques, and deriving valuable insights to support decision-making processes.
